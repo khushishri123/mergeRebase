@@ -5,4 +5,5 @@ if __name__=="__main__":
     b=20
     a,b=b,a
     print(a," ",b)
+    print(a+b)
     
